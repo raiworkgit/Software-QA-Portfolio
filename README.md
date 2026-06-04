@@ -8,7 +8,7 @@ GitHub Repository: https://github.com/raiworkgit/Software-QA-Portfolio
 
 ## Overview
 
-This repository contains QA documentation from multiple testing projects, including bug reports, test cases, and supporting evidence such as screenshots and screen recordings.
+This repository serves as my QA portfolio and contains documentation from multiple testing projects, including bug reports, test cases, and supporting evidence such as screenshots and screen recordings.
 
 It demonstrates my QA work across different systems, focusing on defect reporting, test case execution, and validation of application behavior.
 
