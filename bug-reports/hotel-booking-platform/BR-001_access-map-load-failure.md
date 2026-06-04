@@ -6,7 +6,6 @@ SECL-001
 
 ## Project:
 Section-L 
----
 
 ## Environment:
 Device: Desktop
@@ -18,7 +17,6 @@ High
 
 ## Priority:
 High
----
 
 ## Steps to Reproduce:
 1. Open Sec-L website
@@ -27,19 +25,15 @@ High
 4. Click on navbar to Access
 5. Observe the map widget behavior
 6. Open browser DevTools → Console tab
----
 
 ## Expected Result:
 Map widget should load correctly and display property location without errors.
----
 
 ## Actual Result:
 Map widget fails to load. The section remains blank or unresponsive, and a JavaScript error appears in the browser console.
----
 
 ## Evidence:
 ![Map Widget Error](../../evidence/map-loading-js-error.png)
----
 
 ## Notes:
 - Issue appears related to JavaScript execution failure during map initialization
