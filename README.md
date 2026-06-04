@@ -13,6 +13,32 @@ This repository contains QA documentation from multiple testing projects, includ
 It demonstrates my QA work across different systems, focusing on defect reporting, test case execution, and validation of application behavior.
 
 ---
+## Repository Structure
+
+- bug-reports/ → Documented defects from different projects
+- test-cases/ → Manual test cases and test scenarios
+- evidence/ → Screenshots and screen recordings used for validation
+- resume/ → Copy of QA resume
+
+---
+## Projects Overview
+
+### Section-L (Maintenance & Support Module)
+Section-L is a hotel booking platform designed for managing apartment-style accommodations with hotel-like services. It supports booking and stay management for fully furnished units that include amenities such as kitchen facilities and in-room utilities.
+
+Work: Identified and documented a defect, created structured bug reports with reproduction steps and supporting evidence, and assisted on UAT execution.
+
+### Coden Portal
+Coden Portal is a web-based application designed to manage structured content and user-facing features within a centralized system. It includes multiple functional modules such as authentication, content management, and user interaction workflows.
+
+Work: Created and executed manual test cases for key modules. Documented functional issues and validated system behavior across different scenarios.
+
+### Refuel Driver Platform
+Refuel Driver Platform is a driver-facing application that supports operational workflows such as task handling, status updates, and daily activity management within a transport or delivery-based system.
+
+Work: Performed manual testing, including functional validation of key features, UI behavior checks, and basic usability testing. Logged issues observed during testing and verified system responses against expected behavior.
+
+---
 
 ## Notes on Documentation
 
