@@ -22,4 +22,4 @@ This section focuses on validating the login behavior under common user scenario
 ---
 
 ## Notes
-- Covers basic functional validation of login module
+Covers basic functional validation of login module
