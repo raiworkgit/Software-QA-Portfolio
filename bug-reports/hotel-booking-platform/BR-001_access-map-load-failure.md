@@ -38,7 +38,7 @@ Map widget fails to load. The section remains blank or unresponsive, and a JavaS
 ---
 
 ## Evidence:
-![Map Widget Error](Software-QA-Portfolio/blob/main/evidence/map-loading-js-error.png)
+![Map Widget Error](../../evidence/map-loading-js-error.png)
 ---
 
 ## Notes:
