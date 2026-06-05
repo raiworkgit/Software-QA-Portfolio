@@ -26,7 +26,7 @@ The Japanese translation page should load successfully and display localized con
 The page returns a 404 error and is not accessible in the pre-production environment.
 
 ### Evidence:
-![404 Error Screenshot](../../evidence/SECL-0433_404-japanese-translation)
+![404 Error Screenshot](../../evidence/SECL-0433_404-japanese-translation.png)
 
 ### Notes:
 Issue may be related to missing route configuration, deployment mismatch, or untranslated content not being properly registered in the localization system.
