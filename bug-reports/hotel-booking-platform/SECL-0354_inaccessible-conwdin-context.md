@@ -25,9 +25,9 @@ Sidebar featured banner content should be available within the Crowdin in-contex
 Sidebar featured banner content is not exposed to the Crowdin in-context editor and cannot be selected, edited, or validated for translation.  
 
 ### Evidence:
-![Issue Preview](../../evidence/SECL-0354_inaccessible-crowdin-context.png)  
+![Issue Preview](../../evidence/SECL-0354_inaccessible-conwdin-context.png)
 
-[View Full Recording](../../evidence/SECL-0354_inaccessible-crowdin-context.mp4)  
+[View Full Recording](../../evidence/SECL-0354_inaccessible-conwdin-context.mp4)  
 
 
 ### Notes:
