@@ -25,7 +25,7 @@ Edit page should load successfully with editable fields.
 500 Internal Server Error is returned.
 
 ### Evidence:
-
+![Issue Preview](../../evidence/REF-2470_edit-function-returns-500.png)
 
 ### Notes:
 Likely backend validation or missing entity mapping.
